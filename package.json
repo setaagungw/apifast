@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mandaputtra/apifast#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "fastify": "^2.6.0",
+    "fastify": "^2.15.1",
     "pg": "^7.11.0"
   }
 }
